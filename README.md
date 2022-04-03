@@ -38,6 +38,8 @@ git clone https://github.com/cyberark/PwnKit-Hunter.git
 
 cd PwnKit-Hunter
 
+chmod +x CVE-2021-4034_Finder.py
+
 ./CVE-2021-4034_Finder.py
 ```
   
